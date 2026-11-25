@@ -7,7 +7,7 @@ CRUD de artículos desarrollado con **Java**, **Spring Boot** y **MySQL**, con u
 
 ## Video explicativo
 
-[Ver video del funcionamiento de la API con Postman y la base de datos](PEGAR_AQUI_EL_LINK)
+https://youtu.be/ySzBB8zXMEg
 
 ## Tecnologías
 
