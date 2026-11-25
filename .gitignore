@@ -2,3 +2,5 @@ target/
 .vscode/
 *.class
 .idea/
+.postman/
+postman/
